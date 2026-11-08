@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/mlflow-operator/commit/2a52c6a8e3b79f66aee710f5c6d3a66d03431481",
       "git:hexsha": "2a52c6a8e3b79f66aee710f5c6d3a66d03431481",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev1631"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev1631",
+      "repolex:parsedAt": "2026-11-08T15:00:45.873840+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/mlflow-operator/commit/b53dfe7f99815e3b9e6af30cb687023c9e0d1f23",
